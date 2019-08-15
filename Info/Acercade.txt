@@ -1,0 +1,2 @@
+Todo el proceso implicado en cuanto al diseño y requerimientos del proyecto, está guardado en esta carpeta.
+Esta tiene únicamente finalidad informativa.
